@@ -1,1 +1,2 @@
-# A simple recipe app created using react-native
+# Recipe App
+A simple recipe app created using react-native
